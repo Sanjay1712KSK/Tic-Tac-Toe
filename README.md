@@ -30,14 +30,7 @@ Ensure you have **Python 3** installed on your system. Since Tkinter is included
 ```
 
 ## Output Screenshots
-You can add screenshots of the game here to showcase its interface and functionality. To include images in your **README.md**, follow these steps:
 
-1. Place your screenshot images inside the repository folder.
-2. Add the following markdown syntax to display them:
-   ```md
-   ![Winning Screen](image.png)
-   ```
-3. Make sure the **images** folder exists inside your project directory, and the images are correctly named.
 
 ## Strategies Used
 1. **Turn-Based Player Switching**: The game starts with Player **X**, and after each valid move, it switches to **O**.
@@ -68,7 +61,7 @@ You can add screenshots of the game here to showcase its interface and functiona
 - **Enhanced UI**: Add color themes and animations for better user experience.
 
 ## License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **GNU License**.
 
 ---
 
