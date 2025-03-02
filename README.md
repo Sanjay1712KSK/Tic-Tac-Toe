@@ -35,8 +35,7 @@ You can add screenshots of the game here to showcase its interface and functiona
 1. Place your screenshot images inside the repository folder.
 2. Add the following markdown syntax to display them:
    ```md
-   ![Game Start Screen](images/start_screen.png)
-   ![Winning Screen](images/winning_screen.png)
+   ![Winning Screen](image.png)
    ```
 3. Make sure the **images** folder exists inside your project directory, and the images are correctly named.
 
