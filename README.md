@@ -31,7 +31,7 @@ Ensure you have **Python 3** installed on your system. Since Tkinter is included
 
 ## Output Screenshots
 ```md
- ![Game Screenshot](image.png)
+ ![Winning Game Screenshot](https://github.com/Sanjay1712KSK/Tic-Tac-Toe/blob/main/image.png)
 ```
 
 ## Strategies Used
