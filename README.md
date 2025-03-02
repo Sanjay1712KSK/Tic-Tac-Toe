@@ -30,7 +30,9 @@ Ensure you have **Python 3** installed on your system. Since Tkinter is included
 ```
 
 ## Output Screenshots
-
+```md
+ ![Game Screenshot](image.png)
+```
 
 ## Strategies Used
 1. **Turn-Based Player Switching**: The game starts with Player **X**, and after each valid move, it switches to **O**.
