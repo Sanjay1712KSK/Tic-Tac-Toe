@@ -26,7 +26,7 @@ Once downloaded, open a terminal or command prompt and move into the project fol
 ### 3. Run the Game
 Ensure you have **Python 3** installed on your system. Since Tkinter is included by default in Python, no additional installation is needed. Simply execute:
 ```sh
- python tic_tac_toe.py
+ python TicTacToe.py
 ```
 
 ## Output Screenshots
