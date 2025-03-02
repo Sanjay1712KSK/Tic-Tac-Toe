@@ -63,7 +63,7 @@ Ensure you have **Python 3** installed on your system. Since Tkinter is included
 - **Enhanced UI**: Add color themes and animations for better user experience.
 
 ## License
-This project is open-source and available under the **GPL 3.0 License**.
+This project is open-source and available under the **GNU GENERAL PUBLIC LICENSE**.
 
 ---
 
